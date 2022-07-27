@@ -1,0 +1,18 @@
+{
+  "author": "@TenkDAO",
+  "siteUrl": "https://tenk-dao.github.io/frontend-starter",
+  "contractName": "v2.tenk.testnet",
+  "image": "tenk-logo.png",
+  "social": [
+    {
+      "href": "https://discord.com/invite/UY9Xf2k",
+      "img":  "discord.svg",
+      "alt": "Discord"
+    },
+    {
+      "href": "https://twitter.com/TenkDAO",
+      "img":  "twitter.svg",
+      "alt": "Twitter"
+    }
+  ]
+}

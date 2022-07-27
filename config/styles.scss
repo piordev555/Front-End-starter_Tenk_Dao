@@ -1,0 +1,14 @@
+/**
+ * Make sure these look good in light mode and dark mode!
+ * If you omit any values, defaults will be used.
+ */
+$white: #fdfdfd;
+$black: #262626;
+$accent: #e73b93;
+$secondary: adjust-color($accent, $hue: 90deg);
+
+.this-class-is-set-in-i18n-files h1 {
+  /**
+    * You could add other styles like this
+    */
+}
