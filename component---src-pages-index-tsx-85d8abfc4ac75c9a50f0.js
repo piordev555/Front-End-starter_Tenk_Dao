@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend_starter=self.webpackChunkfrontend_starter||[]).push([[691],{6817:function(e,t,n){n.r(t);var r=n(7294),u=n(273),a=n(2996),c=n(9306);t.default=function(){(0,u.Z)().locales;return r.useEffect((function(){}),[]),r.createElement(a.Z,{style:{justifyContent:"space-around",textAlign:"center"}},r.createElement(c.default,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-85d8abfc4ac75c9a50f0.js.map
